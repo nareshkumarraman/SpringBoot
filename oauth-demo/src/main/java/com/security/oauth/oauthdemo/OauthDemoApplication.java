@@ -12,5 +12,6 @@ public class OauthDemoApplication extends SpringServletContainerInitializer{
 		System.out.println("Added master");
 		System.out.println("branch");
 		System.out.println("Added master one");
+		System.out.println("branchone changes");
 	}
 }
