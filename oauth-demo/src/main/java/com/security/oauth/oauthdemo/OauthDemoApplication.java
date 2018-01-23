@@ -9,5 +9,6 @@ public class OauthDemoApplication extends SpringServletContainerInitializer{
 
 	public static void main(String[] args) {
 		SpringApplication.run(OauthDemoApplication.class, args);
+		System.out.println("Added master");
 	}
 }
